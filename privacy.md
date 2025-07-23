@@ -74,6 +74,6 @@ We may update this Privacy Policy from time to time. Changes will be posted with
 
 If you have any questions about this Privacy Policy, feel free to contact us:
 
-- **WhatsApp:** [+6281717111892]  
-- **Email:** [marketing@campursarifm.com]  
+- **WhatsApp:** +6281717111892
+- **Email:** marketing@campursarifm.com
 - **Website:** [https://www.campursarifm.com](https://www.campursarifm.com)
