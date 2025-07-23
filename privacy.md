@@ -69,8 +69,8 @@
   <h2>9. Contact Us</h2>
   <p>If you have any questions about this Privacy Policy, feel free to contact us:</p>
   <ul>
-    <li><strong>WhatsApp:</strong> +6281717111892</li>
-    <li><strong>Email:</strong> marketing@campursarifm.com</li>
+    <li><strong>WhatsApp:</strong> [Insert your WhatsApp number]</li>
+    <li><strong>Email:</strong> [Insert your support email]</li>
     <li><strong>Website:</strong> <a href="https://www.campursarifm.com" target="_blank">https://www.campursarifm.com</a></li>
   </ul>
 </body>
